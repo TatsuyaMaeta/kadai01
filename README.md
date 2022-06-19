@@ -21,5 +21,5 @@
   - https://soundeffect-lab.info/sound/search.php?s=%E6%AD%A3%E8%A7%A3
 - [tips]オブジェクトのindex番号での操作の作法
   - https://takabus.com/tips/102/
-- GitHub Pages　の使い方
+- [tips]GitHub Pages　の使い方
   - https://t2ym.notion.site/Github-Pages-e24772ae330d4a76abd287b370510046 <br>※GitHub PagesとはGitHubにアップロードしたソースコードを元にサイトと同じ様にwebブラウザにて表示できる静的ホスティングサービスです
